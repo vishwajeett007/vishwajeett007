@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Vishwajeet Singh Chauhan
 
-<!--
-**vishwajeett007/vishwajeett007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚛️ React Developer focused on building modern, responsive, and high-performance web applications.
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ React.js & component-driven development
+
+💡 Clean UI, reusable components, and best practices
+
+🔄 API integration & state management
+
+🌱 Always learning modern frontend tools
+
+🛠️ Tech Stack
+
+Frontend: React, Next.js
+
+Language: JavaScript (ES6+), TypeScript
+
+State: Redux, Context API
+
+Styling: Tailwind CSS, CSS, Styled Components
+
+Tools: Git, Vite, VS Code
+
+🚀 Current Focus
+
+Building scalable React apps
+
+Improving performance & UX
+
+Exploring advanced React patterns
+
+📊 GitHub Stats
+
+
+
+
+🌐 Connect With Me
+
+💼 LinkedIn: [https://www.linkedin.com/in/vishwajeet-chauhan-911a73366/]
+
+🌍 Portfolio: [https://portfolio-35dw.vercel.app/]
