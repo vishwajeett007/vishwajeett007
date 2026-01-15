@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwajeett007&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwajeett007&theme=tokyonight&no-bg=true" alt="Trophies" />
 </p>
 
 ---
 
-### � About Me
+### 👤 About Me
 <div align="center">
   <table>
     <tr>
@@ -25,7 +25,7 @@
         </ul>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vishwajeett007&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vishwajeett007&show_icons=true&theme=tokyonight" alt="Stats" />
       </td>
     </tr>
   </table>
@@ -42,20 +42,20 @@
 
 ---
 
-### � Contribution Activity
+### 📈 Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/vishwajeett007/vishwajeett007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeett007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeett007&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 📊 Language Mastery
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeett007&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeett007&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
