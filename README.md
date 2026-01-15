@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Vishwajeet%20Singh%20Chauhan&fontSize=80&animation=twinkling&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Vishwajeet%20Singh%20Chauhan&fontSize=63&animation=twinkling&fontAlign=50&fontAlignY=60" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Enthusiast;Next.js+Architect;Always+Learning..." alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwajeett007&theme=tokyonight&no-bg=true" alt="Trophies" />
-</p>
 
 ---
 
@@ -20,12 +16,9 @@
         <ul>
           <li>🔭 I’m currently working on <b>[AgileEnv](https://alige-env-frontend-zs21.vercel.app/)</b></li>
           <li>🌱 I’m mastering <b>Next.js & Advanced UI Patterns</b></li>
-          <li>👨‍💻 Customizing my digital world at <b>(https://portfolio-35dw.vercel.app/)</b></li>
+          <li>👨‍💻 Customizing my digital world at <b>[portfolio](https://portfolio-35dw.vercel.app/)</b></li>
           <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
         </ul>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vishwajeett007&show_icons=true&theme=tokyonight" alt="Stats" />
       </td>
     </tr>
   </table>
@@ -47,17 +40,6 @@
   <img src="https://raw.githubusercontent.com/vishwajeett007/vishwajeett007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeett007&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-### 📊 Language Mastery
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeett007&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 ---
 
 ### 🤝 Let's Connect
@@ -76,7 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishwajeett007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Hits" />
+  <img src="https://komarev.com/ghpvc/?username=vishwajeett007&color=79c83d&style=flat-square&label=VISITORS" alt="Visitors" />
 </p>
-
-
