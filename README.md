@@ -9,7 +9,7 @@
 ---
 
 ### 👤 About Me
-<div align="center">
+<div>
   <table>
     <tr>
       <td width="50%">
