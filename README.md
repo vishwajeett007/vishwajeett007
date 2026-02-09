@@ -9,9 +9,9 @@
 ---
 
 ### 👤 About Me
-<table width="100%">
+<table width="100%" valign="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
       <ul>
         <li>🔭 I’m currently working on <b><a href="https://alige-env-frontend-zs21.vercel.app/">AgileEnv</a></b></li>
         <li>🌱 I’m mastering <b>Next.js & Advanced UI Patterns</b></li>
