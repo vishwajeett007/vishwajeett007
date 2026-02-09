@@ -20,7 +20,7 @@
       </ul>
     </td>
 
-  <td width="40%" align="right">
+  <td width="40%" valign="right">
       <img 
         src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
         alt="coding gif"
