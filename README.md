@@ -9,20 +9,27 @@
 ---
 
 ### 👤 About Me
-<div>
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>🔭 I’m currently working on <b>[AgileEnv](https://alige-env-frontend-zs21.vercel.app/)</b></li>
-          <li>🌱 I’m mastering <b>Next.js & Advanced UI Patterns</b></li>
-          <li>👨‍💻 Customizing my digital world at <b>[portfolio](https://vishwajeet-portfolio-ivory.vercel.app/)</b></li>
-          <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🔭 I’m currently working on <b><a href="https://alige-env-frontend-zs21.vercel.app/">AgileEnv</a></b></li>
+        <li>🌱 I’m mastering <b>Next.js & Advanced UI Patterns</b></li>
+        <li>👨‍💻 Customizing my digital world at <b><a href="https://vishwajeet-portfolio-ivory.vercel.app/">portfolio</a></b></li>
+        <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
+      </ul>
+    </td>
+
+    <td width="40%" align="center">
+      <img 
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJjbWl4cXZ6b3p1NjR0b3lpc3B4dWZqdjVqczB4cmh4bGJ0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" 
+        width="250"
+        alt="coding gif"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
