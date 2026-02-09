@@ -20,9 +20,9 @@
       </ul>
     </td>
 
-   <td width="40%" align="center">
+   <td width="100%" align="center">
       <img 
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJjbWl4cXZ6b3p1NjR0b3lpc3B4dWZqdjVqczB4cmh4bGJ0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
         width="250"
         alt="coding gif"
       />
