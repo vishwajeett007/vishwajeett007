@@ -15,7 +15,7 @@
       <ul>
         <li>🔭 I’m currently working on <b><a href="https://alige-env-frontend-zs21.vercel.app/">AgileEnv</a></b></li>
         <li>🌱 I’m mastering <b>Next.js & Advanced UI Patterns</b></li>
-        <li>👨‍💻 Customizing my digital world at <b><a href="https://vishwajeet-portfolio-ivory.vercel.app/">portfolio</a></b></li>
+        <!-- <li>👨‍💻 Customizing my digital world at <b><a href="https://vishwajeet-portfolio-ivory.vercel.app/">portfolio</a></b></li> -->
         <li>💬 Let's talk about <b>Modern Web Architecture</b></li>
       </ul>
     </td>
